@@ -1,4 +1,4 @@
-<img width="1128" height="630" alt="image" src="https://github.com/user-attachments/assets/e0c926d2-c5b8-4910-8886-25dff85eb7d0" /><img width="1128" height="630" alt="image" src="https://github.com/user-attachments/assets/21f9c824-662b-48d8-88af-b1b5fea0bd9a" /># cprt-rover-arm-2025
+# cprt-rover-arm-2025
 Mechanical design and CAD progression for the CPRT 2025 rover arm.
 
 ## The Engineering Problem
